@@ -1,0 +1,2 @@
+class GraphqlToken < ApplicationRecord
+end
