@@ -1,2 +1,4 @@
 # graphql_app
-App created for Daftcode Ruby Guild presentation
+Application without validation, service objects in controllers and authorization. Created for the presentation of the basic graphql assumptions.
+
+An application based on the Avengers Endgame theme.
